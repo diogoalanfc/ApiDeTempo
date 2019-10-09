@@ -7,7 +7,7 @@ use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
 
 $baseUrl = 'http://api.openweathermap.org';
-$appid = '91053a894f38e61bf8173867de57bf7f';
+$appid = '6d9f77a172684769667dcb1fbe06e852';
 $id = '3468879';
 
 //Recupera a data de criação  dos dados
